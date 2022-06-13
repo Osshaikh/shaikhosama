@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaikhosama
 - 👀 I’m interested in Cloud Services
-- 🌱 I’m currently learning kubernetes/terraform/istio/linkerd/
-- 💞️ I’m looking to collaborate on project related to K8s 
+- 🌱 I’m currently learning kubernetes/istio/linkerd/Azure/terraform/bicep/
+- 💞️ I’m looking to collaborate on project related to Azure Conatiner services 
 - 📫 Reach me @techieosama on twitter
 
 <!---
