@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaikhosama
-- 👀 I’m interested in Cloud Services
+- 👀 I’m interested in Serverless | Containers | Kubernetes
 - 🌱 I’m currently learning kubernetes/istio/linkerd/Azure/terraform/bicep/
 - 💞️ I’m looking to collaborate on project related to Azure Conatiner services 
 - 📫 Reach me @osamatwts on twitter
